@@ -26,11 +26,11 @@ A basic YouTube clone created using HTML and CSS.
     ```bash
     cd youtube-clone
     ```
-3.  Open `index.html` in your web browser.
+3.  Open `youtube.html` in your web browser.
 
 ## Author
 
-[Bhavya Singh]
+Bhavya Singh
 
 ## Acknowledgements
 
